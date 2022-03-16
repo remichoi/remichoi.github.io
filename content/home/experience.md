@@ -30,14 +30,14 @@ experience:
   
   - title: Data Scientist
     company: Chartmetric
-    company_url: 'https://chartmetric.com/'
+    # company_url: 'https://chartmetric.com/'
     location: Sunnyvale, California
     date_start: '2020-12-01'
     date_end: '2021-06-01'
 
   - title: Data Scientist Intern
     company: Chartmetric
-    company_url: 'https://chartmetric.com/'
+    # company_url: 'https://chartmetric.com/'
     location: Sunnyvale, California
     date_start: '2020-06-01'
     date_end: '2020-08-31'
